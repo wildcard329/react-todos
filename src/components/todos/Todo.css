@@ -1,0 +1,22 @@
+.todo-buttons {
+  display: flex;
+  flex-direction: flex-end;
+  width: 100%;
+}
+
+.todos-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  list-style: none;
+}
+
+.todo {
+  background-color: black;
+  color: white;
+  padding: 10px 30px;
+}
+
+.completed {
+  background-color: slategray;
+}
