@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "type": "text",
+    "name": "title",
+    "placeholder": "title",
+    "label": "title",
+    "inputClass": "col"
+  },
+  {
+    "id": 1,
+    "type": "text",
+    "name": "description",
+    "placeholder": "description",
+    "label": "description",
+    "inputClass": "col"
+  }
+]

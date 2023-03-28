@@ -1,8 +1,7 @@
 import React from 'react'
 import './App.css'
-import { TodoProvider } from './contexts/todoContext';
-import TodoForm from './components/todo-form/TodoForm';
-import Todos from './components/todos/Todos';
+import { TodoProvider } from './utils/contexts/todoContext';
+import { TodoForm, Todos } from './components/todos';
 
 function App() {
   return (
