@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import todoContext from "../../contexts/todoContext";
+import todoContext from "../../utils/contexts/todoContext";
 import { BsFillCheckSquareFill } from 'react-icons/bs';
 import { RiChatDeleteFill } from 'react-icons/ri';
 import { FaEdit } from 'react-icons/fa';

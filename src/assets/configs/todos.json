@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Add a todo",
+    "description": "Add a todo for the project.",
+    "completed": true
+  },
+  {
+    "id": 1,
+    "title": "Add another todo",
+    "description": "Add another todo for the project.",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Add custom hooks to project",
+    "description": "Incorporate custom hooks into todo demo.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Eat dinner",
+    "description": "Need to figure out what to make for dinner.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Search for jobs",
+    "description": "Apply for new jobs so I am employed.",
+    "completed": true
+  }
+]
